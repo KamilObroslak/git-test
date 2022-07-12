@@ -631,6 +631,7 @@
 
 #-Test wpisowy2
 #-Test wpisowy 3
+#- Spróbuj cofnąc do 2
 
 
 
