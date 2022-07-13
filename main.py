@@ -729,9 +729,17 @@
 #     for b in range(a):
 #         results.append((a, b))
 #         print(a,b)
+#
+# from itertools import cycle
+#
+# numbers = [0, 2, 4, 6, 8]
+#
+# numbers_iterator = cycle(numbers)
+#
+# max_nums = 10
+#
+# for i in range(9):
+#     print(next(numbers_iterator))
 
-
-
-
-
+#-------------------------------------------
 
