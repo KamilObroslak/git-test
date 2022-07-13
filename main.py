@@ -629,10 +629,106 @@
 
 #------------------------------------------------
 
-#-Test wpisowy2
-#-Test wpisowy 3
-#- Spróbuj cofnąc do 2
+#---- Zad 66 ---------------------------------
 
+
+#for i in range(6):
+#    print("Dwa do potęgi ", i, 2**i)
+
+# def funkcja(a):
+#     for i in range(a):
+#         print("Dwa do potęgi ", i, 2 ** i)
+#
+# funkcja(14)
+
+#--------------------------------------------------
+
+# odp = 0
+# pytanie = "Odpowiedz na pytanie: tak lub nie ? "
+#
+# while odp != "tak":
+#     odp = input(pytanie)
+# else:
+#     print("Dziękuję za odpowiedz")
+
+#-----------------------------------------------------
+
+
+# for i in range(1,5):
+#     print("próba nr: ", i)
+
+#---------------------------------------------------
+
+
+# for i in range(10,41):
+#     if i%5 != 0 and i%3 != 0 and i%2 != 0:
+#         print(i)
+
+# def funkcja(a, b, c, d, e):
+#     for i in range(a, b):
+#         if i%c != 0 and i%d !=0 and i%e != 0:
+#             print(i)
+#
+# funkcja(10, 40, 5, 3, 2)
+
+#--------------------------------------------------
+
+
+# licznik = 4
+#
+# print(licznik)
+# for i in range (1,4):
+#     licznik = licznik + 4
+#     print(licznik)
+# print("Zadanie wykonane")
+
+
+# licznik = 4
+#
+# while licznik <= 16:
+#     licznik = licznik + 4
+#     print(licznik)
+# print("Zadanie wykonane")
+
+#---------------------------------------------
+
+
+# for i in range(10, 21):
+#     print(i)
+#     if i == 14:
+#         break
+
+# def funkcja(a, b, c):
+#     for i in range(a, b):
+#      print(i)
+#      if i >= c:
+#          break
+#
+# funkcja(10, 21, 14)
+
+#---------------------------------------------------
+
+# liczba = 0
+#
+# for i in range(1,7):
+#     print("Kolejna liczba ma nr: ", liczba)
+#     liczba = liczba + 5
+
+# for i in range(5, 30, 5):
+#     print("Kolejna liczba ma nr: ", i)
+
+
+#------------------------------------------
+
+# for i in range(0,6):
+#     for j in range(i):
+#         print(i, j)
+
+# results = []
+# for a in range(6):
+#     for b in range(a):
+#         results.append((a, b))
+#         print(a,b)
 
 
 
